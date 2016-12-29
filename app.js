@@ -1,3 +1,3 @@
-setTimeout(() => {
+setInterval(() => {
   console.log('Hello World!');
-}, 0);
+}, 1000);
